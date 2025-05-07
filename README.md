@@ -88,10 +88,10 @@ The dataset consists of **1,200** movies, each with **12** features:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/SmartMovieRatings.git
-cd SmartMovieRatings
+git clone https://github.com/TahsinTanni/CineMetrics_MLproject.git
+cd CineMetrics_MLproject
