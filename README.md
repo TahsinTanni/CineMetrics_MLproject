@@ -52,7 +52,7 @@ The dataset consists of **1,200** movies, each with **12** features:
 
 ---
 
-## 📚 Libraries Used
+## Libraries Used
 
 - `pandas` – data manipulation
 - `numpy` – numerical operations
@@ -62,7 +62,7 @@ The dataset consists of **1,200** movies, each with **12** features:
 
 ---
 
-## 📈 Workflow Overview
+##  Workflow Overview
 
 1. **Data Preprocessing**
    - Encoding categorical variables
@@ -76,7 +76,7 @@ The dataset consists of **1,200** movies, each with **12** features:
 
 3. **Model Training**
    - Fit classification models on training data
-   - Evaluate using accuracy, precision, recall, F1-score
+   - Evaluate using accuracy, precision, recall, and F1-score
 
 4. **Neural Network Modeling**
    - Build and train an MLP classifier
